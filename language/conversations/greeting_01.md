@@ -14,9 +14,3 @@ Goodbye
 
 < See ya soon
 * goodbye
-
-Tata
-* goodbye
-
-< Yeah see you then
-* goodbye
